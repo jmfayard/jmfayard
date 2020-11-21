@@ -26,8 +26,8 @@
 - [Are you feeling overwhelmed? Refactor your assumptions](https://blog.kotlin-academy.com/are-you-feeling-overwhelmed-refactor-your-assumptions-fc77804a0b02?source=rss-63841d68fa9e------2)
 - [Do you Read your Reading List?](https://dev.to/jmfayard/do-you-read-your-reading-list-3f85)
 - [What are your biggest frustrations in the hiring process?](https://dev.to/jmfayard/what-are-your-biggest-frustrations-in-the-hiring-process-5fic)
-- [“What Is Your Current Salary?” Is a Red Flag That You Don’t Want to Work There](https://medium.com/better-programming/what-is-your-current-salary-is-a-red-flag-that-you-dont-want-to-work-there-8a4f19a91bf?source=rss-63841d68fa9e------2)
 - [Q: What is your salary expectation? A: I don't have one, make me an offer!](https://dev.to/jmfayard/what-is-your-salary-expectation-a-i-don-t-have-one-make-me-an-offer-2jaf)
+- [“What is your current salary?” is a red flag that you don’t want to work here](https://dev.to/jmfayard/what-is-your-current-salary-is-a-red-flag-that-you-don-t-want-to-work-here-3aji)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
