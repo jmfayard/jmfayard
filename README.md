@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Comment apprendre Kotlin? IDE et navigateur, livres et tutorials, débutants et dev Java](https://dev.to/zenika/comment-apprendre-kotlin-ide-et-navigateur-livres-et-tutorials-debutants-et-dev-java-2nda)
+- [Comment apprendre Kotlin? IDE et navigateur, livres et tutoriels, débutants et dev Java](https://dev.to/zenika/comment-apprendre-kotlin-ide-et-navigateur-livres-et-tutorials-debutants-et-dev-java-2nda)
 - [💥 Best of #explainlikeimfive](https://dev.to/jmfayard/best-of-explainlikeimfive-3a0f)
 - [How YOU can learn Kotlin](https://medium.zenika.com/how-can-i-learn-kotlin-62a8e222fc6e?source=rss-63841d68fa9e------2)
 - [Are you feeling overwhelmed? Refactor your assumptions](https://blog.kotlin-academy.com/are-you-feeling-overwhelmed-refactor-your-assumptions-fc77804a0b02?source=rss-63841d68fa9e------2)
