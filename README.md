@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Which principles would your Hippocratic Oath for programming contain?](https://dev.to/jmfayard/which-principles-would-your-hippocratic-oath-for-programming-contain-3ghf)
 - [NPM libraries: which are the good ones?](https://dev.to/jmfayard/npm-libraries-which-are-the-good-ones-eke)
 - [⚡️ 7 quick actionable tips for your job search](https://dev.to/jmfayard/7-quick-actionable-tips-for-your-job-search-97h)
 - [Comment apprendre Kotlin? IDE et navigateur, livres et tutoriels, débutants et dev Java](https://dev.to/zenika/comment-apprendre-kotlin-ide-et-navigateur-livres-et-tutorials-debutants-et-dev-java-2nda)
 - [💥 Best of #explainlikeimfive](https://dev.to/jmfayard/best-of-explainlikeimfive-3a0f)
-- [How YOU can learn Kotlin](https://medium.zenika.com/how-can-i-learn-kotlin-62a8e222fc6e?source=rss-63841d68fa9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
