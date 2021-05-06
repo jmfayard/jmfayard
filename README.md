@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [15 Command Line Tools which Spark Joy in Your Terminal](https://dev.to/jmfayard/15-command-line-tools-which-spark-joy-in-your-terminal-45ln)
 - [What are your favorite articles from 2020? #bestofdev](https://dev.to/jmfayard/what-are-your-favorite-articles-from-2020-bestofdev-573f)
 - [Which principles would your Hippocratic Oath for programming contain?](https://dev.to/jmfayard/which-principles-would-your-hippocratic-oath-for-programming-contain-3ghf)
 - [NPM libraries: which are the good ones?](https://dev.to/jmfayard/npm-libraries-which-are-the-good-ones-eke)
 - [⚡️ 7 quick actionable tips for your job search](https://dev.to/jmfayard/7-quick-actionable-tips-for-your-job-search-97h)
-- [Comment apprendre Kotlin? IDE et navigateur, livres et tutoriels, débutants et dev Java](https://dev.to/zenika/comment-apprendre-kotlin-ide-et-navigateur-livres-et-tutorials-debutants-et-dev-java-2nda)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
