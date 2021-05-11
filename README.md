@@ -24,7 +24,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Use Twitter to say Thank You!](https://dev.to/jmfayard/use-twitter-to-say-thank-you-2f2j)
-- [15 Command Line Tools which Spark Joy in Your Terminal](https://medium.com/@jm_fayard/15-command-line-tools-which-spark-joy-in-your-terminal-ec420d770bcc?source=rss-63841d68fa9e------2)
+- [15 Command Line Tools which Spark Joy in Your Terminal](https://proandroiddev.com/15-command-line-tools-which-spark-joy-in-your-terminal-ec420d770bcc?source=rss-63841d68fa9e------2)
 - [15 Command Line Tools which Spark Joy in Your Terminal](https://dev.to/jmfayard/15-command-line-tools-which-spark-joy-in-your-terminal-45ln)
 - [What are your favorite articles from 2020? #bestofdev](https://dev.to/jmfayard/what-are-your-favorite-articles-from-2020-bestofdev-573f)
 - [Which principles would your Hippocratic Oath for programming contain?](https://dev.to/jmfayard/which-principles-would-your-hippocratic-oath-for-programming-contain-3ghf)
