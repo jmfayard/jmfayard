@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Java to Kotlin in 20 minutes ⚡️](https://dev.to/jmfayard/from-java-to-kotlin-in-20-minutes-d9f)
 - [Use Twitter to say Thank You!](https://dev.to/jmfayard/use-twitter-to-say-thank-you-2f2j)
 - [15 Command Line Tools which Spark Joy in Your Terminal](https://medium.zenika.com/15-command-line-tools-which-spark-joy-in-your-terminal-ec420d770bcc?source=rss-63841d68fa9e------2)
 - [15 Command Line Tools which Spark Joy in Your Terminal](https://dev.to/jmfayard/15-command-line-tools-which-spark-joy-in-your-terminal-45ln)
 - [What are your favorite articles from 2020? #bestofdev](https://dev.to/jmfayard/what-are-your-favorite-articles-from-2020-bestofdev-573f)
-- [Which principles would your Hippocratic Oath for programming contain?](https://dev.to/jmfayard/which-principles-would-your-hippocratic-oath-for-programming-contain-3ghf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
