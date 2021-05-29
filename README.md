@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Unit test your knowledge 💡](https://dev.to/jmfayard/unit-test-your-knowledge-13j)
+- [Unit test your learning  💡](https://dev.to/jmfayard/unit-test-your-knowledge-13j)
 - [De Java à Kotlin en 20 minutes](https://dev.to/zenika/de-kotlin-a-java-en-20-minutes-56k9)
 - [From Java to Kotlin in 20 minutes ⚡️](https://blog.kotlin-academy.com/from-java-to-kotlin-in-20-minutes-%EF%B8%8F-78ef76fa7691?source=rss-63841d68fa9e------2)
 - [DEV.to internal search is... bad?](https://dev.to/jmfayard/dev-to-internal-search-is-bad-2l1l)
