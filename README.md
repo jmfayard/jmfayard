@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The 3 most interesting Kotlin posts of May 2021](https://dev.to/jmfayard/the-3-most-interesting-kotlin-posts-of-may-2021-4i4g)
 - [Unit test your learning  💡](https://dev.to/jmfayard/unit-test-your-knowledge-13j)
 - [De Java à Kotlin en 20 minutes](https://dev.to/zenika/de-kotlin-a-java-en-20-minutes-56k9)
 - [From Java to Kotlin in 20 minutes ⚡️](https://blog.kotlin-academy.com/from-java-to-kotlin-in-20-minutes-%EF%B8%8F-78ef76fa7691?source=rss-63841d68fa9e------2)
 - [DEV.to internal search is... bad?](https://dev.to/jmfayard/dev-to-internal-search-is-bad-2l1l)
-- [Is it worth it to cross-post on Medium in 2021?](https://dev.to/jmfayard/is-it-worth-it-to-cross-post-on-medium-in-2021-5dn4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
