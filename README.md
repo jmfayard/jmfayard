@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What keeps you motivated to write?](https://dev.to/jmfayard/what-keeps-you-motivated-to-write-2jfh)
 - [How to build a GraphQL Gateway with Spring Boot and Kotlin](https://blog.kotlin-academy.com/how-to-build-a-graphql-gateway-with-spring-boot-and-kotlin-97a186d93d46?source=rss-63841d68fa9e------2)
 - [How to build a GraphQL Gateway with Spring Boot and Kotlin](https://dev.to/jmfayard/how-to-build-a-graphql-gateway-with-spring-boot-and-kotlin-h30)
 - [The 3 most interesting Kotlin posts of May 2021](https://dev.to/jmfayard/the-3-most-interesting-kotlin-posts-of-may-2021-4i4g)
 - [Unit test your learning  💡](https://dev.to/jmfayard/unit-test-your-knowledge-13j)
-- [De Java à Kotlin en 20 minutes](https://dev.to/zenika/de-kotlin-a-java-en-20-minutes-56k9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
