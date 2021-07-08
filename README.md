@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practice what's new in Java](https://dev.to/jmfayard/practice-what-s-new-in-java-1j09)
 - [20+ Lessons I've Learned Writing on DEV for 4 Years](https://dev.to/jmfayard/20-lessons-i-ve-learned-writing-on-dev-for-4-years-4nk3)
 - [Kotlin monthly wrap up - June 2021](https://dev.to/jmfayard/kotlin-monthly-wrap-up-june-2021-4nh2)
 - [How to learn a programming language? Write unit tests](https://medium.zenika.com/how-to-learn-a-programming-language-write-unit-tests-45ebf2fd68a4?source=rss-63841d68fa9e------2)
 - [Blockchain and the bitcoin are new and useful](https://dev.to/jmfayard/blockchain-and-the-bitcoin-are-new-and-useful-21d0)
-- [What keeps you motivated to write?](https://dev.to/jmfayard/what-keeps-you-motivated-to-write-2jfh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
