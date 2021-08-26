@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Wisdom of the DEV crowd 🗣](https://dev.to/jmfayard/wisdom-of-the-dev-crowd-2kho)
 - [What are your best tips for starting well in a new job?](https://dev.to/jmfayard/what-are-your-best-tips-for-starting-well-in-a-new-job-fkf)
 - [What are your best reads of the week?](https://dev.to/jmfayard/what-are-your-best-reads-of-the-week-17je)
 - [Kotlin monthly wrap-up: July 2021](https://dev.to/jmfayard/kotlin-monthly-wrap-up-july-2021-53l9)
 - [How to Write a Command-Line Tool with Kotlin Multiplatform](https://proandroiddev.com/how-to-write-a-command-line-tool-with-kotlin-multiplatform-b598247fe880?source=rss-63841d68fa9e------2)
-- [How to Write a Command-Line Tool with Kotlin Multiplatform](https://dev.to/jmfayard/how-to-write-a-command-line-tool-with-kotlin-multiplatform-45g2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
