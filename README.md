@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jean-Michel</h1>
-<h3 align="center">Lazyness ; Impatience ; Hubris.</h3>
+<h3 align="center">Lazyness, Impatience & Hubris.</h3>
 
 <p align="left"><img src="https://skillicons.dev/icons?i=kotlin,ktor,graphql,heroku,idea,spring,postgres,git,github,bash,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
 
