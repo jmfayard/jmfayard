@@ -18,7 +18,7 @@ Mon rôle de prédilection c'est d'être un team lead orienté soft skills coupl
 - **Autonomnie** parce que je ne suis pas un exécutant ou spécialiste. Je suis un solutionneur à qui on donne des objectifs et qui trouve une route créative pour y parvenir.
 - **Sens du projet**. Je pose systématiquement la question: qui est l'audience idéale de ce produit et pourquoi en a t'il vraiment besoin?
 - **Communication, écoute et empathie** car la plupart des projets informatiques échouent pour ces raisons et non pas pour des raisons techniques.
-- **Technology** I want to stay in the Java/Kotlin ecosystem. Ideally I would also want to grow up on front-end/Typescript skills
+- **Technology** Je suis spécialiste de l'écosystème Java et en particulier de Kotlin. Mais ouvert à autre chose.
 
 
 ### Ce que j'apporte dans une expérience idéale
